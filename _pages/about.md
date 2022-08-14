@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<pGreetings! Jeevanshi is a recent Electrical Engineer graduate from [Aligarh Muslim University](https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology), India. SHe is majorly working around the ideas that intersect Language, Cognition and Machine Intelligence. She has been a Mitacs Globalink Research Intern in 2020, 
+
+
+and is a member of the <a href="https://www.amu.ac.in/amucentre.jsp?did=10234" target="_blank">Centre for Interdisciplinary Biomedical and Human Factors Engineering </a> directed by <a href="https://www.amu.ac.in/dshowfacultydata.jsp?did=31&eid=3111" target="_blank">Professor Yusuf Uzzaman Khan</a>. Currently, I am working as a Research Intern under Prof. <a href="https://xulabs.github.io/" target="_blank">Darren Abramson</a>, Dalhousie University, Canada remotely. My contribution has been in working with datasets for Compositional Tasks in Natural Language Understanding, preparing them for pretraining of State-Of-The-Art Language Models. I have also contributed in getting the results on Benchmark Datasets for Common-Sense-Reasoning Tasks using Zero-Shot Measurements.
+
+
 Welcome! I am a data scientist applying machine learning tools and causal
 inference techniques to remote sensing data. I am also an affiliated
 researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
