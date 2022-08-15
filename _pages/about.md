@@ -15,7 +15,7 @@ She loves to participate in hackathons, perform theatre or learn about Jung's Id
 
 
 ## Education 
-:mortar_board: BTech in Electrical Engineering, 2018-2022, <span style="color:grey">Aligarh Muslim University, Aligarh, India</span> 
+: mortar_board : BTech in Electrical Engineering, 2018-2022, <span style="color:grey">Aligarh Muslim University, Aligarh, India</span> 
 
 ## Research Interests
 - Natural Language Processing
