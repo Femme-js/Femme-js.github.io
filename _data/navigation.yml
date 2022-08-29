@@ -8,7 +8,7 @@ main:
     url: /hackathons/
     
   - title: "Posts"
-    url: /blog-posts/
+    url: /posts/
     
   - title: "CV"
     url: /cv/
