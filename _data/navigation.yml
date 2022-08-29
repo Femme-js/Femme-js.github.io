@@ -3,15 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research"
-    url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Software"
-    url: /software/
-
+  - title: "Hackathons"
+    url: /hackathons/
+    
   - title: "Posts"
     url: /posts/
     
