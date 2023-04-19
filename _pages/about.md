@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Jeevanshi is a recent Electrical Engineer graduate from [Aligarh Muslim University](https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology), India. She is majorly working around the ideas that intersect Language, Cognition and Machine Intelligence. She has been a Mitacs Globalink Research Intern in 2020 at Dalhousie University, Halifax, Canada under [Prof. Darren Ambrason]() where she worked on preparing the datasets to fine-tune State-Of-The-Art Language Models to perform Compositional Tasks in Natural Language Understanding and getting results on benchmark datasets (Super-GLUE) for Common-Sense-Reasoning Tasks using Zero-Shot Measurements. Recently, she worked as a Data Science Intern at [Emplay, Dublin, CA](https://www.emplay.net/), contributing to developing keyphrases generation api end-to-end and creating models to detect toxicity in user's feed for fortune 500 clients.
-She has been a memeber of the [Centre for Interdisciplinary Biomedical and Human Factors Engineering](https://www.amu.ac.in/centres/centre-for-biomedical-engineering) directed by [Prof. Yusuf Uzzaman Khan](https://www.amu.ac.in/dshowfacultydata.jsp?did=31&eid=3111) who has also been her thesis-advisor.
+Hi! I am Jeevanshi, an incoming MSc CS grad student at University of Alberta. I have graduated as an Electrical Engineer graduate from [Aligarh Muslim University](https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology), India in 2022.
 
-She loves to participate in hackathons, perform theatre or learn about Jung's Ideas on understanding the psyche. Her inspiration to work in the field of Machine Learning came from her immense desire to understand about human brain in a more comprehensive way.
+Recently, I worked as an Outreachy Intern with Ersilia Open Source Initiative, contributing in development of AI/ML tools for drug discovery. I have been a Mitacs Globalink Research Intern at Dalhousie University in the year 2020.  I have worked as a Data Science Intern at [Emplay, Dublin, CA](https://www.emplay.net/), contributing to developing keyphrases generation api and content moderation. 
+
+I take a deep appreciation in diverese human experiences. I myself coming from a theatre and arts background apart from my formal education, I later grew up my deep interest and passion into music, history, philosophy, analytical psychology, etc which continuosly feeds my desire to understand life and human brain. My interests have allowed me to create unique and more holistic approaches to problem-solving. 
+
+I look forward to work on the ideas that integrates machine intelligence and human experience generally. Drawing on the principles of aesthetics, and my keen sense of artistry and creativity, I aim to design AI systems that are culturally sensitive and more attuned to human needs. 
+
 
 
 ## Education 
@@ -19,7 +23,7 @@ She loves to participate in hackathons, perform theatre or learn about Jung's Id
 
 ## Research Interests
 - Natural Language Processing
-- Signal Processing
+- Linguistic
 - Multimodal Learning
 - Cognitive Sciences / Neurosciences
 
