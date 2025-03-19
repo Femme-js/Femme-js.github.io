@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MSc CS with Specialization in Multimedia, University of Alberta, Canada (Nov'24)
-* B.Tech in Electrical Engineering, Aligarh Muslim University, India, 2022
+* MSc CS with Specialization in Multimedia, University of Alberta, Canada - Nov 2024
+* B.Tech in Electrical Engineering, Aligarh Muslim University, India - June 2022
 
 Work experience
 ======
